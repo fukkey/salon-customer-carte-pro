@@ -3,7 +3,7 @@
 
 美容室・サロン向けの顧客カルテ管理Webアプリです。  
 Google Apps Script × Google スプレッドシートで動作し、月額費用ゼロで運用できます。
-
+Built with assistance from Claude (Anthropic)
 ---
 
 ## 特徴
@@ -146,4 +146,4 @@ Google Apps Script × Google スプレッドシートで動作し、月額費用
 
 ## サポート
 
-ご不明な点は設定ページ内の公式 LINE よりお問い合わせください。
+ご不明な点は設定ページ内の公式 LINE よりお問い合わせください。（有料）
